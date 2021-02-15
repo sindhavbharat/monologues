@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "577670378765",
+    "project_id": "monologues-f1189",
+    "storage_bucket": "monologues-f1189.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:577670378765:android:906c6ec35cfa5e45c92c44",
+        "android_client_info": {
+          "package_name": "com.flutter.monologues"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "577670378765-df002fsjm2db21910qc3nj1n3855j88t.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.flutter.monologues",
+            "certificate_hash": "20a4d4b21675a3d865787a69016684b53371110b"
+          }
+        },
+        {
+          "client_id": "577670378765-voidjeqbnpfjg0kqam0adcculedd1v52.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCYNWScTK6PeMtgG89r6-v-7qjeG_pZPoc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "577670378765-voidjeqbnpfjg0kqam0adcculedd1v52.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
